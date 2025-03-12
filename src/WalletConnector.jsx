@@ -121,7 +121,7 @@ export default function WalletConnector() {
   return (
     <div style={{ display: "flex", flexDirection: "column", gap: "10px", maxWidth: "400px", margin: "0 auto", textAlign: "center" }}>
       {/* Centered Headings */}
-      <h1 style={{ margin: "0.4" }}>SimpleDApp</h1>
+      <h1 style={{ margin: "0.4" }}>Simple dApp</h1>
       {/* <h2 style={{ margin: "0" }}>Ethereum Wallet</h2> */}
 
       {/* Wallet Address and Chain ID Display */}
